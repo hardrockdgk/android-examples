@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloLang</string>
+
+    <string name="lang">Language</string>
+    <string name="english">English</string>
+    <string name="korean">Korean</string>
+</resources>
